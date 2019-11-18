@@ -1,3 +1,6 @@
 data/
 processedData/
 .ipynb_checkpoints/
+mergedProcessedData/
+__pycache__/
+
